@@ -1,0 +1,12 @@
+﻿  Board.cpp
+C:\Users\OS\Desktop\C\BanGa_TachFile_BackUp - 1\BanGa_TachFile\Board.cpp(280,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Boss.cpp
+  Bullet.cpp
+  Difficulty.cpp
+  Enermy.cpp
+  Main.cpp
+  Menu.cpp
+  Player.cpp
+  Shared.cpp
+  Generating Code...
+  BanGa_TachFile.vcxproj -> C:\Users\OS\Desktop\C\BanGa_TachFile_BackUp - 1\Debug\BanGa_TachFile.exe
